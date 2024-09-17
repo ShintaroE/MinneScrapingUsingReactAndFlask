@@ -1,0 +1,31 @@
+# Flaskの仮想環境
+/FLASK/venv/
+
+# Reactの依存関係
+/REACT/node_modules/
+/REACT/.pnp
+/REACT/.pnp.js
+
+# ビルド出力
+/REACT/build
+
+# デバッグファイル
+/REACT/coverage
+
+# 設定ファイル
+/REACT/.env.local
+/REACT/.env.development.local
+/REACT/.env.test.local
+/REACT/.env.production.local
+
+# バージョン管理の除外
+.DS_Store
+/REACT/.idea
+/REACT/.vscode
+/REACT/*.swp
+/REACT/*.swo
+/REACT//logs
+/REACT/*.log
+/REACT/npm-debug.log*
+/REACT/yarn-debug.log*
+/REACT/yarn-error.log*
