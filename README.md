@@ -1,0 +1,2 @@
+# MinneScrapingUsingReactAndFlask
+ReactとFlaskを使ったミンネのスクレイピングWebアプリ
